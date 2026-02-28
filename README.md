@@ -18,3 +18,5 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 I've learned branching and forking on github.
 
 Adding this line to track my first local commit.
+
+Adding this additional line to close out a task
